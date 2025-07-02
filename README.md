@@ -1,6 +1,6 @@
 # Hotel Feedback Form
 
-A simple, accessible HTML feedback form designed to collect guest opinions about their recent stay at a hotel.  
+A simple, accessible HTML feedback form designed to collect guest opinions about their recent stay at a hotel.
 
 ---
 
@@ -40,7 +40,10 @@ This project contains a clean, semantic HTML form for hotel guests to provide fe
 
 ## File Structure
 
+- `images/preview.png` — Preview image of the feedback form.
+- `.gitignore` — Git ignore file to exclude unnecessary files from version control.
 - `index.html` — Main HTML file containing the feedback form.
+- `README.md` — This documentation file.
 
 ---
 
@@ -50,6 +53,6 @@ This project is open and free to use for educational and personal purposes.
 
 ---
 
-## Screenshot / Preview
+## Preview
 
-*(Include a screenshot image if available)*
+![Preview of Hotel Feedback Form](images/preview.png)
